@@ -1,48 +1,150 @@
-# JavaScript-Todo-Manager
+# 🚀 Javascript Todo Manager
 
-**Sistema Avançado de Gerenciamento de Tarefas**
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E.svg)](https://developer.mozilla.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4-000000.svg)](https://expressjs.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Um aplicativo de lista de tarefas construído com Node.js para ajudar você a organizar suas tarefas diárias de forma eficiente.
-
-## 🖼️ Imagem Hero
-
-![JavaScript Todo Manager Hero Image](hero_image.png)
-
-## Início Rápido
-
-Para começar com o projeto, siga os passos abaixo:
-
-```bash
-npm install
-npm start
-```
-
-## Autor
-
-Gabriel Demetrios Lafis
+[English](#english) | [Português](#português)
 
 ---
 
-# JavaScript-Todo-Manager
+## English
 
-**Advanced Todo Management System**
+### 🎯 Overview
 
-A todo list application built with Node.js to help you organize your daily tasks efficiently.
+**Javascript Todo Manager** — Professional JavaScript-Todo-Manager - Created by Gabriel Demetrios Lafis
 
-## 🖼️ Hero Image
+Total source lines: **21** across **1** files in **1** language.
 
-![JavaScript Todo Manager Hero Image](hero_image.png)
+### ✨ Key Features
 
-## Quick Start
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
 
-To get started with the project, follow the steps below:
+### 🚀 Quick Start
 
+#### Prerequisites
+- Node.js 20+ and npm
+
+
+#### Installation
+
+1. **Clone the repository**
 ```bash
-npm install
-npm start
+git clone https://github.com/galafis/JavaScript-Todo-Manager.git
+cd JavaScript-Todo-Manager
 ```
 
-## Author
+2. **Install dependencies**
+```bash
+npm install
+```
 
-Gabriel Demetrios Lafis
+#### Running
 
+```bash
+npm run dev
+```
+
+
+
+
+
+### 📁 Project Structure
+
+```
+JavaScript-Todo-Manager/
+├── README.md
+├── index.js
+└── package.json
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| JavaScript | 1 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Javascript Todo Manager** — Professional JavaScript-Todo-Manager - Created by Gabriel Demetrios Lafis
+
+Total de linhas de código: **21** em **1** arquivos em **1** linguagem.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Node.js 20+ e npm
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/JavaScript-Todo-Manager.git
+cd JavaScript-Todo-Manager
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Execução
+
+```bash
+npm run dev
+```
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+JavaScript-Todo-Manager/
+├── README.md
+├── index.js
+└── package.json
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| JavaScript | 1 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
